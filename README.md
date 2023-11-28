@@ -25,11 +25,11 @@ Data was gotten online for practice puporses
 
 ## VISUALIZATION
 
-![](Dashboard.jpg)
+![](dashboard.jpg)
 
 
 ## CONCLUSION
 
-![](Insight.jpg)
+![](insight.jpg)
 
 THANK YOU. 🙂
